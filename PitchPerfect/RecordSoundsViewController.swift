@@ -28,7 +28,7 @@ class RecordSoundsViewController: UIViewController, AVAudioRecorderDelegate {
         super.viewWillAppear(animated)
         print("viewWillAppear called")
         print("anjay ukhti")
-        print("ini fikri")
+
     }
 
 
